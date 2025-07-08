@@ -117,6 +117,22 @@ class _ProjectsSectionState extends State<ProjectsSection> {
         'assets/images/hospital/hospital9.jpg',
       ]
     },
+
+     {
+      'title': 'Coffee POS System',
+          'status' : 'Personal Project',
+     'description': 'I created this project for coffee shops to manage their menu, display shop information, and handle customer orders. It features a user-friendly interface and is optimized for Android devices.',
+      'Tech Tools' : [
+          'Android Studio','Java','XML','SQLITE', 
+        ],
+      'images': [
+        'assets/images/coffee/coffee_pos2.png',
+    'assets/images/coffee/coffee_pos1.png',
+     'assets/images/coffee/coffee_pos3.png',
+    'assets/images/coffee/coffee_pos4.png',
+     'assets/images/coffee/coffee_pos5.jpeg',
+      ]
+    },
     // Add more projects here...
   ];
 

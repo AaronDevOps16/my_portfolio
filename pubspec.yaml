@@ -119,6 +119,14 @@ flutter:
     - assets/images/tech_stack/postman_logo.jpg
     - assets/images/tech_stack/sql_logo.jpg
 
+#Coffee
+
+    - assets/images/coffee/coffee_pos1.png
+    - assets/images/coffee/coffee_pos2.png
+    - assets/images/coffee/coffee_pos3.png
+    - assets/images/coffee/coffee_pos4.png 
+    - assets/images/coffee/coffee_pos5.jpeg
+
    
   # To add assets to your application, add an assets section, like this:
   # assets:
