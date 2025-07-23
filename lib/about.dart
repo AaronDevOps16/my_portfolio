@@ -37,7 +37,7 @@ class AboutSection extends StatelessWidget {
   List<Widget> _buildContent(bool isWideScreen) {
     final image = ClipOval(
       child: Image.asset(
-        'assets/images/profile.jpg',
+        'assets/images/avatar.jpg',
         width: isWideScreen ? 220 : 140,
         height: isWideScreen ? 220 : 140,
         fit: BoxFit.cover,
